@@ -1,7 +1,8 @@
-> Cenario simples para Roblox
+> Pista de jogo estilo obby para Roblox
 >
 > https://www.roblox.com/games/12435261298/Campfire
->
+> >Este repositorio tem o único objetivo de validar os desafios proposto pelo curso ministrado pela DIO
 ##
 
-![robloc_campfire](https://github.com/jeziel-nogueira/desafio-roblox1/assets/119265934/8696439b-92be-4dbe-9093-bda7f7d72302)
+![Captura de tela 2024-04-20 202026](https://github.com/jeziel-nogueira/desafio-roblox1/assets/119265934/11046103-bcb8-4474-b3ca-7ff2aa1a50b6)
+
