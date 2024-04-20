@@ -1,6 +1,6 @@
 > Pista de jogo estilo obby para Roblox
 >
-> https://www.roblox.com/games/12435261298/Campfire
+> [https://www.roblox.com/games/12435261298/Campfire](https://www.roblox.com/games/12424717370/Obby-DIO)
 > >Este repositorio tem o único objetivo de validar os desafios proposto pelo curso ministrado pela DIO
 ##
 
